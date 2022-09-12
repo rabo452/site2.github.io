@@ -1,4 +1,4 @@
 # Landing home sale site
-[preview](preview.jpg)
+![preview](preview.jpg)
 ---
 no script logic only html/css
